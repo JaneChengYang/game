@@ -12,6 +12,8 @@
 		F44EEA392070B70500081E8B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F44EEA372070B70500081E8B /* Main.storyboard */; };
 		F44EEA3B2070B70500081E8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F44EEA3A2070B70500081E8B /* Assets.xcassets */; };
 		F44EEA3E2070B70500081E8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F44EEA3C2070B70500081E8B /* LaunchScreen.storyboard */; };
+		F44EEA462070BD1400081E8B /* ShigotoMemogaki-Regular-1-01.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F44EEA452070BD1400081E8B /* ShigotoMemogaki-Regular-1-01.ttf */; };
+		F44EEA482070BD2400081E8B /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F44EEA472070BD2400081E8B /* crayon_1-1.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		F44EEA3A2070B70500081E8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F44EEA3D2070B70500081E8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F44EEA3F2070B70500081E8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F44EEA452070BD1400081E8B /* ShigotoMemogaki-Regular-1-01.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ShigotoMemogaki-Regular-1-01.ttf"; sourceTree = "<group>"; };
+		F44EEA472070BD2400081E8B /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		F44EEA322070B70500081E8B /* game */ = {
 			isa = PBXGroup;
 			children = (
+				F44EEA452070BD1400081E8B /* ShigotoMemogaki-Regular-1-01.ttf */,
+				F44EEA472070BD2400081E8B /* crayon_1-1.ttf */,
 				F44EEA332070B70500081E8B /* AppDelegate.swift */,
 				F44EEA352070B70500081E8B /* ViewController.swift */,
 				F44EEA372070B70500081E8B /* Main.storyboard */,
@@ -123,6 +129,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F44EEA482070BD2400081E8B /* crayon_1-1.ttf in Resources */,
+				F44EEA462070BD1400081E8B /* ShigotoMemogaki-Regular-1-01.ttf in Resources */,
 				F44EEA3E2070B70500081E8B /* LaunchScreen.storyboard in Resources */,
 				F44EEA3B2070B70500081E8B /* Assets.xcassets in Resources */,
 				F44EEA392070B70500081E8B /* Main.storyboard in Resources */,
